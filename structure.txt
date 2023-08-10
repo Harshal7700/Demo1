@@ -13,8 +13,8 @@ void main()
     s.a=111;
     printf("%d",s.c);
 }
-// it show garage value
-///////////////////////////////////////////////////////////////
+// it show garage
+/////////////////
 
 #include <stdio.h>
 struct ab 
